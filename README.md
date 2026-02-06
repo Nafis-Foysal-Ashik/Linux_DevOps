@@ -1,4 +1,4 @@
-# Linux & DevOps Study Notes
+# Linux_DevOps Study Notes
 
 This repository contains comprehensive study notes on Linux fundamentals, file management, system monitoring, and networking tools essential for DevOps. These notes cover architecture, permissions, user management, and advanced command-line tools.
 
